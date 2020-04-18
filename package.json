@@ -1,0 +1,23 @@
+{
+  "name": "sunwei.xyz",
+  "email": "me@sunwei.xyz",
+  "version": "1.0.0",
+  "description": "A static website for sunwei.xyz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -p"
+  },
+  "author": "Sun Wei",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "css-loader": "^3.5.2",
+    "style-loader": "^1.1.4",
+    "url-loader": "^4.1.0",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
