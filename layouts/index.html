@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="{{ default .Site.Language.Lang .Site.LanguageCode  }}">
+{{- partial "head.html" . -}}
+<body>
+<div class="content">
+    {{- partial "language.html" . -}}
+
+    <h1 class="title">{{ .Site.Title }}</h1>
+    <p>{{ .Content }}</p>
+
+    {{- partial "foot.html" . -}}
+</div>
+</body>
+</html>
