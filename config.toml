@@ -1,5 +1,6 @@
 baseURL = 'https://sunwei.xyz/'
 title = 'sunwei.xyz'
+theme = "github.com/sunwei/zero"
 
 defaultContentLanguage = 'zh'
 [languages]
