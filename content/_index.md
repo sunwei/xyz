@@ -11,6 +11,7 @@ date: 2022-09-05T16:32:38+08:00
 
 * [企业级应用](https://ent.sunwei.xyz)
 * [Moby Buildkit 源码读书笔记](https://buildkit.notes.sunwei.xyz/)
+* [Hugo 源码读书笔记](https://hugo.notes.sunwei.xyz/)
 
 ### 工具
 

@@ -10,7 +10,8 @@ Agile Consulting, Delivery Performance Governance, Cloud Native, Source Code Sha
 ### Reading Notes
 
 * [Enterprise Service](https://ent.sunwei.xyz)
-* [Moby Buildkit source coding reading](https://buildkit.notes.sunwei.xyz/)
+* [Moby Buildkit source code reading](https://buildkit.notes.sunwei.xyz/)
+* [Hugo source code reading](https://hugo.notes.sunwei.xyz/)
 
 ### Tools
 
