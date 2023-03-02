@@ -13,6 +13,10 @@ date: 2022-09-05T16:32:38+08:00
 * [Moby Buildkit 源码读书笔记](https://buildkit.notes.sunwei.xyz/)
 * [Hugo 源码读书笔记](https://hugo.notes.sunwei.xyz/)
 
+### DDD
+
+* [DDD助我手撸Markdown之战略及战术](https://www.toutiao.com/article/7205534384726786594/)
+
 ### 工具
 
 * [JSON 在线编缉器](https://jsoneditoronline.cn/)
