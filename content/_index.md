@@ -15,7 +15,7 @@ date: 2022-09-05T16:32:38+08:00
 
 ### DDD
 
-* [DDD助我手撸Markdown之战略及战术](https://www.toutiao.com/article/7205534384726786594/)
+* * [DDD Markdown](https://md.dddplayer.com/)
 
 ### 工具
 
