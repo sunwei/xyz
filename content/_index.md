@@ -15,7 +15,7 @@ date: 2022-09-05T16:32:38+08:00
 
 ### DDD
 
-* * [DDD Markdown](https://md.dddplayer.com/)
+* [DDD Markdown](https://md.dddplayer.com/)
 
 ### 工具
 
